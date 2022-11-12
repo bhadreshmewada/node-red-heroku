@@ -1,5 +1,6 @@
 {
     "name": "node-red-heroku",
+	"engines" : { "node" : "14.x" },
     "version": "0.0.2",
     "dependencies": {
         "feedparser": "~0.19.2",
